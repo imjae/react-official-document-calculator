@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 
 import "./Display.css";
 
@@ -17,10 +16,11 @@ import "./Display.css";
 //   }
 // }
 
-const Display = () => {
+const Display = (props) => {
+
   return (
-    <div className="component-app">
-      <button>HELLO!</button>
+    <div className="component-display">
+      <div>{props.value}</div>
     </div>
   );
 };
