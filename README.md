@@ -1,2 +1,26 @@
-# react-official-document-calculator
-리액트 공식 문서에서 예제로 만들어 놓은 계산기 프로그램 분석
+Calculator
+---
+<img src="Logotype primary.png" width="60%" height="60%" />
+
+Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+
+
+Try It
+---
+
+[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
+
+
+
+Install
+---
+
+`npm install`
+
+
+
+Usage
+---
+
+`npm start`
